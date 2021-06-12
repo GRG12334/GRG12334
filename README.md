@@ -1,16 +1,38 @@
-### Hi there 👋
+# Programmer Gaurav
 
-<!--
-**GRG12334/GRG12334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex">
+  <div style="width: 50%">
+    <div>
+      <img src="/images/wave.gif" width="30" />
+      Hello World, I am Gaurav Gupta.
+    </div>
+    <div>
+      <div>
+        I am a highly passionate computer programmer and I like to design and
+        develop Websites.
+      </div>
+      <div>
+        Programming is my hobby, passion, profession, ability, and everything to
+        me.
+      </div>
+    </div>
+  </div>
+  <div style="width: 50%">
+    <img src="/images/hackerman.gif" />
+  </div>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+<br />
+
+![github stats](https://github-readme-stats.vercel.app/api?username=programmergaurav&show_icons=true&title_color=fff&theme=radical&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmergaurav&layout=compact&title_color=fff&theme=radical)
+
+# My Work
+
+-[Portfolio](https://programmergaurav.me)
+<br /> -[DDos Attacker](https://github.com/ProgrammerGaurav/DDos-Attack)
+
+![picture](https://raw.githubusercontent.com/ProgrammerGaurav/programmergaurav/master/images/dino.gif)
