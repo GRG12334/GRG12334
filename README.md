@@ -18,7 +18,7 @@
     </div>
   </div>
   <div style="width: 50%">
-    <img src="/images/hackerman.gif" />
+    <img src="/images/hackerman.gif" style="width:100%" />
   </div>
 </div>
 
