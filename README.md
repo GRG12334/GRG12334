@@ -1,6 +1,6 @@
 # Programmer Gaurav
 
-<img align="right" width="30%" src="images/hackerman.gif" />
+<img align="right" width="35%" src="images/hackerman.gif" />
 
 <p>
   <img src="images/wave.gif" width="30" />
