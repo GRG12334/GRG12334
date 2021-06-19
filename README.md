@@ -3,33 +3,29 @@
 <div style="display: flex">
   <div style="width: 50%">
     <div>
-      <img src="/images/wave.gif" width="30" />
-      Hello World, I am Gaurav Gupta.
+      <img src="images/wave.gif" width="30" />
+      Hello World, I am Gaurav.
     </div>
+    <br />
+    <div>I am a Full Stack Developer.</div>
+    <br />
     <div>
-      <div>
-        I am a highly passionate computer programmer and I like to design and
-        develop Websites.
-      </div>
-      <div>
-        Programming is my hobby, passion, profession, ability, and everything to
-        me.
-      </div>
+      Programming is my hobby, passion, profession, ability, and everything to
+      me.
     </div>
   </div>
-  <div style="width: 50%">
-    <img src="/images/hackerman.gif" style="width:100%" />
+  <div align="right" style="width: 50%">
+    <img width="100%" src="images/hackerman.gif" />
   </div>
 </div>
 
-
-
 <br />
-<br />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=programmergaurav&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical" />
+</p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=programmergaurav&show_icons=true&title_color=fff&theme=radical&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmergaurav&layout=compact&title_color=fff&theme=radical)
-
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=programmergaurav&theme=dracula" />
 # My Work
 
 -[Portfolio](https://programmergaurav.me)
